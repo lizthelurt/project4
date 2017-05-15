@@ -30,15 +30,17 @@ ul{
 	
 }
 body
-{background-color: #808080
+{
+	background-image: url("http://wallpaper-gallery.net/images/free-american-flag-wallpaper-downloads/free-american-flag-wallpaper-downloads-22.jpg");
 }
 h1{
 	text-align:center;
 	font-size: 40px;
 }
  p {
+	 font-size:40px;
     font-family: Times, serif;
-	
+	color: white ;
  }
 
 
