@@ -36,11 +36,20 @@ body
 h1{
 	text-align:center;
 	font-size: 40px;
+	color: white ;
 }
  p {
 	 font-size:40px;
     font-family: Times, serif;
 	color: white ;
  }
+ 
+ p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
 
 
